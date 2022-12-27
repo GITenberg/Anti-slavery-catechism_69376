@@ -1,0 +1,35 @@
+_repo: Anti-slavery-catechism_69376
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Child, Lydia Maria
+    aliases:
+    - Child, Lydia Maria Francis
+    - Francis, Lydia Maria
+    - Child, L. Maria (Lydia Maria)
+    birthdate: 1802
+    deathdate: 1880
+    gutenberg_agent_id: '2732'
+    url: http://www.gutenberg.org/2009/agents/2732
+    wikipedia: https://en.wikipedia.org/wiki/Lydia_Maria_Child
+description: ''
+gutenberg_issued: '2022-11-18'
+identifiers:
+  gutenberg: '69376'
+  lccn: '11006646'
+language: en
+pgterms:marc905: 20220212153030child
+pgterms:marc906: '1839'
+pgterms:marc907: US
+production_note: John Campbell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Charles Whipple,1839.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States'
+- !lcc 'E300'
+- GITenberg
+title: Anti-slavery catechism
+url: http://www.gutenberg.org/ebooks/69376
